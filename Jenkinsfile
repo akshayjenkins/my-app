@@ -9,6 +9,7 @@ node {
 	   // Build using maven
 	 sh 'mvn package'
    }
+}
    
   
 
